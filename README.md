@@ -19,15 +19,15 @@
 > *"I'm a **Full‑Stack Developer** passionate about building web apps, exploring new tech, and contributing to open-source projects."*
 
 ✨ **What I'm up to:**
-- 🎯 **Currently building**: Your project name or link  
-- 📚 **Learning**: Tailwind CSS, React advanced patterns  
+- 🎯 **Currently working on**: [SkillWell](#) – a skill enhancement platform  
+- 📚 **Learning**: SpringBoot 
 - 🤔 **Ask me about**: React, Node.js, Laravel, MongoDB, Git  
 - ☕ **Fun Fact**: I love chai & coding late nights
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=nismygaffor&color=ff69b4&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/nismygaffor?style=social)](https://github.com/nismygaffor)
 
 </div>
 
