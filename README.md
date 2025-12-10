@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="100" alt="Coding Girl"/>
 
-# ✨ Hey, I'm **Fathima Nishmy**! ✨
+# ✨ Hey, I'm **Nishmy**! ✨
 
 ### 💻 Full Stack Developer · 👩‍🎓 IT Undergraduate
 
@@ -20,9 +20,9 @@
 
 ✨ **What I'm up to:**
 - 🎯 **Currently working on:** [SkillWell](#) – a Mental Health & Learning Platform  
-- 📚 **Learning:** Advanced React patterns, Tailwind CSS, Spring Boot  
-- 🤔 **Ask me about:** React, Node.js, Laravel, MongoDB, Socket.io, JWT  
-- ☕ **Fun Fact:** I can make milo coffee better than Starbucks  
+- 📚 **Learning:** Spring Boot  
+- 🤔 **Ask me about:** React, Node.js, Laravel, MongoDB  
+- 🤝 **Open to:** Internship and collaborative projects 
 
 <div align="center">
 
