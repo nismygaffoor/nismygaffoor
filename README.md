@@ -27,7 +27,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nismygaffor&color=ff69b4&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/nismygaffor?style=social)](https://github.com/nismygaffor)
+[![GitHub followers](https://img.shields.io/github/followers/nismygaffor?style=social)](https://github.com/nismygaffoor)
 
 </div>
 
