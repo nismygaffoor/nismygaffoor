@@ -15,7 +15,6 @@
 
 ## 🌸 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="250" alt="code illustration"/>
 
 > *"I'm a **Full‑Stack Developer** skilled in building responsive frontend interfaces and scalable backend systems. Passionate about creating seamless user experiences and writing maintainable code."*
 
@@ -69,20 +68,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-### 🔥 **Streak Stats**
-<img src="https://streak-stats.demolab.com?user=nismygaffor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" />
-
-### 📈 **GitHub Overview**
-<img src="https://github-readme-stats.vercel.app/api?username=nismygaffor&show_icons=true&theme=dracula&hide_border=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nismygaffor&layout=compact&theme=dracula&hide_border=false" height="165" />
-
-</div>
-
----
 
 ## 💌 Let's Connect!
 
